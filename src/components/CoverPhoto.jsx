@@ -6,7 +6,7 @@ function CoverPhoto() {
             <img 
             src="./assets/Cover.jpg" 
             alt="Cover Photo"
-            className="mx-auto w-1/5  rounded-full mt-20 mb-0" />
+            className="mx-auto w-2/5 sm:w-1/5 rounded-full mt-20 mb-0" />
         </div>
     )
 }
